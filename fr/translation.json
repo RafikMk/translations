@@ -36,7 +36,15 @@
   "terms_and_privacy": "En continuant j'accepte les conditions d'utilisation de Taxi Coq et je reconnais avoir lu sa politique de confidentialité.",
 
   "enter_valid_phone_number": "Veuillez saisir un numéro de téléphone valide !",
-  "enter_your_phone_number": "Veuillez saisir votre numéro de téléphone !"
-
-  
+  "enter_your_phone_number": "Veuillez saisir votre numéro de téléphone !",
+  "connection_in_progress": "Connexion en cours ...",
+  "customized_trips": "Trajets Personnalisés",
+  "customize_your_journey": "Personnalisez votre voyage de A à B et au-delà avec notre application conviviale. Choisissez votre destination principale sans tracas, et si votre itinéraire comporte des détours, ajoutez facilement des arrêts intermédiaires en cours de route. Chez nous, la planification de votre trajet est entre vos mains, assurant une expérience de réservation de taxi sur mesure, sans complications.",
+  "ready_to_go": "Prêt à Partir? Attendez Votre Taxi en Toute Sérénité",
+  "after_booking": "Après avoir réservé votre taxi, laissez-nous prendre le relais. Suivez en direct l'approche de votre chauffeur grâce à notre carte intégrée, recevez des notifications en temps réel, et soyez averti dès que votre taxi se rapproche. Fini le stress inutile. Notre système vous garantit une attente sans tracas, vous laissant libre de vous concentrer sur l'essentiel.",
+  "taxi_arrived": "Votre Taxi Est Arrivé, Prêt à Vous Embarquer",
+  "moment_you_have_been_waiting_for": "L'instant que vous attendiez avec impatience est enfin là : votre taxi est à votre porte. Identifiez rapidement votre chauffeur grâce aux détails clairs affichés dans l'application, et préparez-vous à embarquer pour un trajet des plus agréables.",
+  "start": "COMMENCER",
+  "skip": "Ignorer",
+  "next": "Passer"
 }
