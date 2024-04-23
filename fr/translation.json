@@ -46,5 +46,9 @@
   "moment_you_have_been_waiting_for": "L'instant que vous attendiez avec impatience est enfin là : votre taxi est à votre porte. Identifiez rapidement votre chauffeur grâce aux détails clairs affichés dans l'application, et préparez-vous à embarquer pour un trajet des plus agréables.",
   "start": "COMMENCER",
   "skip": "Ignorer",
-  "next": "Passer"
+  "next": "Passer",
+  "hello": "Bonjour",
+  "where_to_today": "On va où aujourd’hui ?",
+  "search_a_destination": "Rechercher une destination",
+  "order_on_taxi_coq_website": "Commander sur le site de Taxi Coq"
 }

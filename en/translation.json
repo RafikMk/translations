@@ -43,9 +43,13 @@
   "after_booking": "After booking your taxi, let us take over. Track your driver's approach in real time on our integrated map, receive real-time notifications, and be alerted as soon as your taxi approaches. No more unnecessary stress. Our system guarantees a hassle-free wait, allowing you to focus on what's important.",
   "taxi_arrived": "Your Taxi Has Arrived, Ready to Embark",
   "moment_you_have_been_waiting_for": "The moment you have been waiting for is finally here: your taxi is at your doorstep. Quickly identify your driver with the clear details displayed in the app, and get ready to embark on a most pleasant journey.",
-  "start": "Start",
+  "start": "START",
   "skip": "Skip",
-  "next": "Next"
+  "next": "Next",
+  "hello": "Hello",
+  "where_to_today": "Where to today?",
+  "search_a_destination": "Search a destination",
+  "order_on_taxi_coq_website": "Order on the Taxi Coq website"
 
 
 
