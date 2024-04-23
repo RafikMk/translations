@@ -85,8 +85,8 @@
   "roundTripQuestion": "Round Trip?",
   "searchDestination": "Search for a Destination",
   "returnToForm": "Return to Form",
-  "scheduleYourRide": "You can schedule your ride up to <span class='boldText'>365 days</span> in advance.",
-  "rideCancellation": "Cancellation of your ride up to <span class='boldText'>15 minutes</span> before your reservation time."
+  "scheduleInfo": "You can schedule your ride up to {{count}} days in advance.",
+  "cancellationPolicy": "Cancellation of your ride up to {{time}} before your reservation time."
 
 
 }

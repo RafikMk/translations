@@ -85,8 +85,8 @@
   "roundTripQuestion": "Aller et retour ?",
   "searchDestination": "Rechercher une destination",
   "returnToForm": "Revenir au formulaire",
-  "scheduleYourRide": "Vous pouvez planifier votre course jusqu'à <span class='boldText'>365 jours</span> en avance.",
-  "rideCancellation": "Annulation de votre course jusqu'à <span class='boldText'>15 minutes</span> avant votre horaire de réservation."
+  "scheduleInfo": "Vous pouvez planifier votre course jusqu'à {{count}} jours en avance.",
+  "cancellationPolicy": "Annulation de votre course jusqu'à {{time}} avant votre horaire de réservation."
 
 
 }
