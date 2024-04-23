@@ -89,10 +89,17 @@
   "scheduleInfo_prt2": "365 jours",
   "scheduleInfo_prt3": "en avance.",
   "at": "à",
+  "plan": "Planifiez",
+  "YourRide": "votre course.",
 
   "cancellationPolicy_prt1": "Annulation de votre course jusqu'à ",
    "cancellationPolicy_prt2": "15 minutes",
-   "cancellationPolicy_prt3": "avant votre horaire de réservation."
+   "cancellationPolicy_prt3": "avant votre horaire de réservation.",
+   "withoutDriver": "Sans chauffeur",
+   "priceChargedByDeducting": "Le prix est facturé en déduisant",
+   "letsGo": "On y va",
+   "chooseSuitableVehicle": "Faites le choix du véhicule le plus adapté à votre trajet.",
+   "how": "Comment ?"
 
 
 }

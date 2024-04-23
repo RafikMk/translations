@@ -85,15 +85,18 @@
   "roundTripQuestion": "Round Trip?",
   "searchDestination": "Search for a Destination",
   "returnToForm": "Return to Form",
-  
   "scheduleInfo_prt1": "You can schedule your ride up to ",
   "scheduleInfo_prt2": "365 days",
   "scheduleInfo_prt3": "in advance.",
   "at": "at",
-
+  "plan": "Plan",
+  "YourRide": "your ride.",
   "cancellationPolicy_prt1": "Cancellation of your ride up to ",
-   "cancellationPolicy_prt2": "15 minutes",
-   "cancellationPolicy_prt3": "before your reservation time."
-
-
+  "cancellationPolicy_prt2": "15 minutes",
+  "cancellationPolicy_prt3": "before your reservation time.",
+  "withoutDriver": "Without a driver",
+  "priceChargedByDeducting": "The price is charged by deducting",
+  "letsGo": "Let's go",
+  "chooseSuitableVehicle": "Choose the vehicle best suited for your trip",
+  "how": "How?"
 }
