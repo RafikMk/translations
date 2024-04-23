@@ -99,7 +99,14 @@
    "priceChargedByDeducting": "Le prix est facturé en déduisant",
    "letsGo": "On y va",
    "chooseSuitableVehicle": "Faites le choix du véhicule le plus adapté à votre trajet.",
-   "how": "Comment ?"
+   "how": "Comment ?",
+   "optionsQuery": "Des options ?",
+   "optionsAddInfo": "Vous pouvez ajouter les options dont vous avez besoin.",
+   "weAdd": "On ajoute",
+   "largeTrunk": "Grand coffre",
+   "petService": "Service animaux",
+   "babySeat": "Siège bébé",
+   "prm": "PMR"
 
 
 }

@@ -98,5 +98,13 @@
   "priceChargedByDeducting": "The price is charged by deducting",
   "letsGo": "Let's go",
   "chooseSuitableVehicle": "Choose the vehicle best suited for your trip",
-  "how": "How?"
+  "how": "How?",
+  "optionsQuery": "Any options?",
+  "optionsAddInfo": "You can add the options you need.",
+  "weAdd": "We add",
+  "largeTrunk": "Large trunk",
+  "petService": "Pet service",
+  "babySeat": "Baby seat",
+  "prm": "PMR"
+
 }
