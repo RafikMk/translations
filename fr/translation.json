@@ -136,7 +136,9 @@
    "inProgress": "En Cours",
    "completed": "Terminés",
    "cancelled": "Annulée",
-   "filterByDate": "Filtrer par date"
+   "filterByDate": "Filtrer par date",
+   "tomorrowAt": "Demain à:",
+   "todayAt": "Aujourd'hui à"
 
  
 

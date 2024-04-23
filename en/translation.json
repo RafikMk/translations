@@ -135,7 +135,9 @@
   "inProgress": "In Progress",
   "completed": "Completed",
   "cancelled": "Cancelled",
-  "filterByDate": "Filter by date"
+  "filterByDate": "Filter by date",
+  "tomorrowAt": "Tomorrow at:",
+  "todayAt": "Today at:"
 
 
 }
