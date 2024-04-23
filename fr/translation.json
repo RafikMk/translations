@@ -106,7 +106,15 @@
    "largeTrunk": "Grand coffre",
    "petService": "Service animaux",
    "babySeat": "Siège bébé",
-   "prm": "PMR"
+   "prm": "PMR",
+   "settleWith": "On règle avec",
+   "choosePaymentSolutions": "Choisissez parmi diverses solutions de paiement.",
+   "whichMethod": "Quel moyen ?",
+   "weProcess": "Nous traitons",
+   "yourRide": "votre course.",
+   "finalSmallSummaryOf": "Dernier petit résumé \nde",
+   "paymentBy": "Règlement par"
+ 
 
 
 }

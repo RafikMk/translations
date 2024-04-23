@@ -105,6 +105,13 @@
   "largeTrunk": "Large trunk",
   "petService": "Pet service",
   "babySeat": "Baby seat",
-  "prm": "PMR"
+  "prm": "PMR",
+  "settleWith": "We settle with",
+  "choosePaymentSolutions": "Choose from various payment solutions.",
+  "whichMethod": "Which method?",
+  "weProcess": "We process",
+  "yourRide": "your ride.",
+  "finalSmallSummaryOf": "Final small summary of",
+  "paymentBy": "Payment by"
 
 }
