@@ -49,7 +49,12 @@
   "hello": "Hello",
   "where_to_today": "Where to today?",
   "search_a_destination": "Search a destination",
-  "order_on_taxi_coq_website": "Order on the Taxi Coq website"
+  "order_on_taxi_coq_website": "Order on the Taxi Coq website",
+  "how_can_i_help_you_today": "How can I help you today?",
+  "feel_free_to_ask_questions": "Feel free to ask questions or request assistance.",
+  "call_support": "Call support",
+  "book_on_our_site": "Book on our site",
+  "cancel": "Cancel"
 
 
 

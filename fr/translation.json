@@ -50,5 +50,11 @@
   "hello": "Bonjour",
   "where_to_today": "On va où aujourd’hui ?",
   "search_a_destination": "Rechercher une destination",
-  "order_on_taxi_coq_website": "Commander sur le site de Taxi Coq"
+  "order_on_taxi_coq_website": "Commander sur le site de Taxi Coq",
+  "how_can_i_help_you_today": "Comment puis-je vous aider aujourd'hui ?",
+  "feel_free_to_ask_questions": "N'hésitez pas à poser des questions ou à demander de l'assistance.",
+  "call_support": "Appeler le support",
+  "book_on_our_site": "Reserver sur notre site",
+  "cancel": "Annuler"
+  
 }
