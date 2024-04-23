@@ -113,7 +113,22 @@
    "weProcess": "Nous traitons",
    "yourRide": "votre course.",
    "finalSmallSummaryOf": "Dernier petit résumé \nde",
-   "paymentBy": "Règlement par"
+   "paymentBy": "Règlement par",
+   "details": "Détails",
+   "ofPayment": "de paiement",
+   "myMethodsOf": "Mes moyens de",
+   "my": "Mes",
+   "trips": "Trajets",
+   "advertisements": "Publicités",
+   "addresses": "Adresses",
+   "changePassword": "Modifier le mot de passe",
+   "personalSpace": "espace perso",
+   "myPersonal": "Mon",
+   "our": "Notre",
+   "faq": "FAQ",
+   "generalConditions": "CONDITIONS GENERALES",
+   "rideDetails": "Détails de la course"
+ 
  
 
 

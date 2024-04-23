@@ -111,7 +111,21 @@
   "whichMethod": "Which method?",
   "weProcess": "We process",
   "yourRide": "your ride.",
-  "finalSmallSummaryOf": "Final small summary of",
-  "paymentBy": "Payment by"
+  "finalSmallSummaryOf": "Final small summary of\n",
+  "paymentBy": "Payment by",
+  "details": "Details",
+  "ofPayment": "of payment",
+  "myMethodsOf": "My methods of",
+   "my": "My",
+  "trips": "Trips",
+  "advertisements": "Advertisements",
+  "addresses": "Addresses",
+  "changePassword": "Change password",
+  "personalSpace": "personal space",
+  "myPersonal": "My",
+  "our": "Our",
+  "faq": "FAQ",
+  "generalConditions": "GENERAL CONDITIONS",
+  "rideDetails": "Ride details"
 
 }
