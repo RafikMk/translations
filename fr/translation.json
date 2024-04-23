@@ -84,6 +84,9 @@
   "addAStop": "Ajouter une étape",
   "roundTripQuestion": "Aller et retour ?",
   "searchDestination": "Rechercher une destination",
-  "returnToForm": "Revenir au formulaire"
+  "returnToForm": "Revenir au formulaire",
+  "scheduleYourRide": "Vous pouvez planifier votre course jusqu'à <span class='boldText'>365 jours</span> en avance.",
+  "rideCancellation": "Annulation de votre course jusqu'à <span class='boldText'>15 minutes</span> avant votre horaire de réservation."
+
 
 }

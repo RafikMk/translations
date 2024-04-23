@@ -77,13 +77,16 @@
   "enableLocationServices": "Enable Location Services",
   "enableLocationServicesInstruction": "Please enable location services in Settings",
   "todayQuestion": "today?",
-  "whereTo": "Where to?",
+  "whereTo": "Where to",
   "now": "Now",
   "myPosition": "My Position",
   "intermediate": "Intermediate",
   "addAStop": "Add a Stop",
   "roundTripQuestion": "Round Trip?",
   "searchDestination": "Search for a Destination",
-  "returnToForm": "Return to Form"
+  "returnToForm": "Return to Form",
+  "scheduleYourRide": "You can schedule your ride up to <span class='boldText'>365 days</span> in advance.",
+  "rideCancellation": "Cancellation of your ride up to <span class='boldText'>15 minutes</span> before your reservation time."
+
 
 }
