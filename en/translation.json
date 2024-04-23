@@ -67,6 +67,23 @@
   "logOutConfirmation": "Are you sure you want to log out?",
   "yes": "Yes",
   "no": "No",
-  "ok": "OK"
+  "selectedDateIsPast": "The selected date is earlier than the current time.",
+  "location": "Location",
+  "taxiCoqAccessRequest": "Taxi Coq needs access to your location",
+  "ok": "OK",
+  "locationPermissionRequired": "Location permission required",
+  "locationPermissionExplanation": "To set the arrival address to your current position, we need your permission to access location. You can enable location in the application settings.",
+  "openSettings": "Open Settings",
+  "enableLocationServices": "Enable Location Services",
+  "enableLocationServicesInstruction": "Please enable location services in Settings",
+  "todayQuestion": "today?",
+  "whereTo": "Where to?",
+  "now": "Now",
+  "myPosition": "My Position",
+  "intermediate": "Intermediate",
+  "addAStop": "Add a Stop",
+  "roundTripQuestion": "Round Trip?",
+  "searchDestination": "Search for a Destination",
+  "returnToForm": "Return to Form"
 
 }

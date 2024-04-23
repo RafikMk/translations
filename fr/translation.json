@@ -54,7 +54,6 @@
   "feel_free_to_ask_questions": "N'hésitez pas à poser des questions ou à demander de l'assistance.",
   "call_support": "Appeler le support",
   "book_on_our_site": "Reserver sur notre site",
-  "cancel": "Annuler",
   "contact_support": "Contacter le support",
   "home": "Accueil",
   "myTrips": "Mes trajets",
@@ -67,6 +66,24 @@
   "logOutConfirmation": "Êtes-vous sûr de vouloir vous déconnecter?",
   "yes": "Oui",
   "no": "Non",
-  "ok": "OK"
+  "selectedDateIsPast": "La date sélectionnée est inférieure à l'heure actuelle.",
+  "location": "Localisation",
+  "taxiCoqAccessRequest": "Taxi Coq besoin un accès à votre localisation",
+  "cancel": "Annuler",
+  "ok": "OK",
+  "locationPermissionRequired": "Autorisation de localisation requise",
+  "locationPermissionExplanation": "Pour définir l'adresse d'arrivée à votre position actuelle, nous avons besoin de votre autorisation pour accéder à la localisation. Vous pouvez activer la localisation dans les paramètres de l'application.",
+  "openSettings": "Ouvrir les Paramètres",
+  "enableLocationServices": "Enable Location Services",
+  "enableLocationServicesInstruction": "Please enable location services in Settings",
+  "todayQuestion": "aujourd’hui ?",
+  "whereTo": "On va ou",
+  "now": "Maintenant",
+  "myPosition": "Ma position",
+  "intermediate": "intermédiaire",
+  "addAStop": "Ajouter une étape",
+  "roundTripQuestion": "Aller et Retour ?",
+  "searchDestination": "Rechercher une destination",
+  "returnToForm": "Revenir au formulaire"
 
 }
