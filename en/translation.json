@@ -33,8 +33,9 @@
   "enter_last_name": "Please enter your Last Name!",
   "accept_terms": "Please accept our terms of use",
   "enter_full_name": "Please enter your first and last name!",
-  "terms_and_privacy": "By continuing I accept the terms of use of Taxi Coq and acknowledge having read its privacy policy."
-
+  "terms_and_privacy": "By continuing I accept the terms of use of Taxi Coq and acknowledge having read its privacy policy.",
+    "enter_valid_phone_number": "Please enter a valid phone number!",
+  "enter_your_phone_number": "Please enter your phone number!"
 
 
 

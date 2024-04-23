@@ -33,8 +33,10 @@
   "enter_last_name": "Veuillez saisir votre Nom !",
   "accept_terms": "Veuillez accepter nos conditions d'utilisation",
   "enter_full_name": "Veuillez entrer votre nom et prénom !",
-  "terms_and_privacy": "En continuant j'accepte les conditions d'utilisation de Taxi Coq et je reconnais avoir lu sa politique de confidentialité."
+  "terms_and_privacy": "En continuant j'accepte les conditions d'utilisation de Taxi Coq et je reconnais avoir lu sa politique de confidentialité.",
 
+  "enter_valid_phone_number": "Veuillez saisir un numéro de téléphone valide !",
+  "enter_your_phone_number": "Veuillez saisir votre numéro de téléphone !"
 
   
 }
