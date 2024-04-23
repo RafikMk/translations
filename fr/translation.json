@@ -19,6 +19,16 @@
   "please_enter_the_code": "Veuillez entrer le code reçu par SMS au numéro de téléphone",
   "cant_find_the_message": "vous ne trouvez pas le message, assurez-vous de vérifier votre téléphone .",
   "having_a_little_trouble": "Un petit soucis ?",
-  "resend_the_code": "Renvoyer le code !"
+  "resend_the_code": "Renvoyer le code !",
+  "incorrect_code": "Code incorrect, veuillez vérifier le code",
+  "previous": "Précédent",
+  "how_can_we_call_you": "COMMENT ON PEUT VOUS APPELER ?",
+  "first_name_for_drivers": "Votre prénom sera pour vos chauffeurs, votre nom de famille est uniquement pour vos factures.",
+  "first_name": "Prénom",
+  "last_name": "Nom",
+  "by_continuing_i_accept": "En continuant j'accepte les conditions d'utilisation de Taxi Coq et je reconnais avoir lu sa politique de confidentialité.",
+  "welcome": "Bienvenue"
+
+
   
 }
