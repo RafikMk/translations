@@ -54,5 +54,19 @@
   "feel_free_to_ask_questions": "N'hésitez pas à poser des questions ou à demander de l'assistance.",
   "call_support": "Appeler le support",
   "book_on_our_site": "Reserver sur notre site",
-  "cancel": "Annuler"
+  "cancel": "Annuler",
+  "contact_support": "Contacter le support",
+  "home": "Accueil",
+  "myTrips": "Mes trajets",
+  "payment": "Paiement",
+  "account": "Compte",
+  "myAddresses": "Mes adresses",
+  "advertising": "Publicité",
+  "logOut": "Se déconnecter",
+  "signOut": "Déconnexion",
+  "logOutConfirmation": "Êtes-vous sûr de vouloir vous déconnecter?",
+  "yes": "Oui",
+  "no": "Non",
+  "ok": "OK"
+
 }

@@ -54,5 +54,19 @@
   "feel_free_to_ask_questions": "Feel free to ask questions or request assistance.",
   "call_support": "Call support",
   "book_on_our_site": "Book on our site",
-  "cancel": "Cancel"
+  "cancel": "Cancel",
+  "contact_support": "Contact support",
+  "home": "Home",
+  "myTrips": "My trips",
+  "payment": "Payment",
+  "account": "Account",
+  "myAddresses": "My addresses",
+  "advertising": "Advertising",
+  "logOut": "Log out",
+  "signOut": "Sign out",
+  "logOutConfirmation": "Are you sure you want to log out?",
+  "yes": "Yes",
+  "no": "No",
+  "ok": "OK"
+
 }
