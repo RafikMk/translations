@@ -1,5 +1,5 @@
 {
-   "who_are_you": "Qui êtes vous? 🧐",
+  "who_are_you": "Qui êtes vous? 🧐",
   "enter_your": "SAISISSEZ VOTRE",
   "phone_number": "NUMÉRO DE TÉLÉPHONE",
   "phone_number_label": "Numéro de téléphone",
@@ -8,7 +8,7 @@
   "log_in_with_apple": "Je me connecte avec Apple",
   "log_in_with_google": "Je me connecte avec Google",
   "i_am_a_driver": "Je suis un chauffeur",
-  "or":"Ou",
+  "or": "Ou",
   "email_or_phone_not_exist": "Cet email ou ce numéro de téléphone n'existe pas, Si vous n'êtes pas encore inscrit, cliquez sur « Nouveau compte »",
   "account_exists_different_method": "Il y a un autre compte qui existe avec cette adresse e-mail, mais créé via une méthode différente, soit Apple ou Google",
   "please_validate_your_choice": "Merci de validez votre choix! ci-dessus",
@@ -34,7 +34,6 @@
   "accept_terms": "Veuillez accepter nos conditions d'utilisation",
   "enter_full_name": "Veuillez entrer votre nom et prénom !",
   "terms_and_privacy": "En continuant j'accepte les conditions d'utilisation de Taxi Coq et je reconnais avoir lu sa politique de confidentialité.",
-
   "enter_valid_phone_number": "Veuillez saisir un numéro de téléphone valide !",
   "enter_your_phone_number": "Veuillez saisir votre numéro de téléphone !",
   "connection_in_progress": "Connexion en cours ...",
@@ -56,5 +55,4 @@
   "call_support": "Appeler le support",
   "book_on_our_site": "Reserver sur notre site",
   "cancel": "Annuler"
-  
 }
