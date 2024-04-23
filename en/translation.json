@@ -1,6 +1,11 @@
 {
-    "welcome": "Welcome to sss",
-    "thanks": "Thank you for visiting!",
-    "farewell": "Goodbye!"
-  }
-  
+  "who_are_you": "Who are you?",
+  "enter_your": "ENTER YOUR",
+  "phone_number": "PHONE NUMBER",
+  "phone_number_label": "Phone number",
+  "invalid_phone_number": "Invalid phone number!",
+  "i_continue": "I continue!",
+  "log_in_with_apple": "Log in with Apple",
+  "log_in_with_google": "Log in with Google",
+  "i_am_a_driver": "I am a driver"
+}

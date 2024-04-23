@@ -1,5 +1,11 @@
 {
-  "welcome": "Bienvenue à React",
-  "thanks": "Merci de votre ssss!",
-  "farewell": "Au revoir!"
+  "who_are_you": "Qui êtes vous?",
+  "enter_your": "SAISISSEZ VOTRE",
+  "phone_number": "NUMÉRO DE TÉLÉPHONE",
+  "phone_number_label": "Numéro de téléphone",
+  "invalid_phone_number": "Numéro de téléphone non valide!",
+  "i_continue": "Je continue !",
+  "log_in_with_apple": "Je me connecte avec Apple",
+  "log_in_with_google": "Je me connecte avec Google",
+  "i_am_a_driver": "Je suis un chauffeur"
 }
