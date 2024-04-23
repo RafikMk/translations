@@ -22,12 +22,18 @@
   "resend_the_code": "Resend the code!",
   "incorrect_code": "Incorrect code, please verify the code",
   "previous": "Previous",
-  "how_can_we_call_you": "HOW CAN WE CALL YOU?",
+  "how_can_we": "HOW CAN WE",
+  "call_you": "CALL YOU?",
   "first_name_for_drivers": "Your first name will be for your drivers, your last name is only for your invoices.",
   "first_name": "First name",
   "last_name": "Last name",
   "by_continuing_i_accept": "By continuing I accept the terms of use of Taxi Coq and acknowledge having read its privacy policy.",
-  "welcome": "Welcome"
+  "welcome": "Welcome",
+  "enter_first_name": "Please enter your First Name!",
+  "enter_last_name": "Please enter your Last Name!",
+  "accept_terms": "Please accept our terms of use",
+  "enter_full_name": "Please enter your first and last name!"
+
 
 
 
