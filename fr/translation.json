@@ -22,8 +22,8 @@
   "resend_the_code": "Renvoyer le code !",
   "incorrect_code": "Code incorrect, veuillez vérifier le code",
   "previous": "Précédent",
-   "how_can": "HOW CAN WE",
-  "call_you": "CALL YOU?",
+  "how_can_we": "COMMENT ON PEUT",
+  "call_you": "VOUS APPELER ?",
   "first_name_for_drivers": "Votre prénom sera pour vos chauffeurs, votre nom de famille est uniquement pour vos factures.",
   "first_name": "Prénom",
   "last_name": "Nom",
@@ -32,7 +32,8 @@
   "enter_first_name": "Veuillez saisir votre Prénom !",
   "enter_last_name": "Veuillez saisir votre Nom !",
   "accept_terms": "Veuillez accepter nos conditions d'utilisation",
-  "enter_full_name": "Veuillez entrer votre nom et prénom !"
+  "enter_full_name": "Veuillez entrer votre nom et prénom !",
+  "terms_and_privacy": "En continuant j'accepte les conditions d'utilisation de Taxi Coq et je reconnais avoir lu sa politique de confidentialité."
 
 
   
