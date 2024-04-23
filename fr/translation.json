@@ -1,5 +1,5 @@
 {
-  "who_are_you": "Qui êtes vous? 🧐",
+   "who_are_you": "Qui êtes vous? 🧐",
   "enter_your": "SAISISSEZ VOTRE",
   "phone_number": "NUMÉRO DE TÉLÉPHONE",
   "phone_number_label": "Numéro de téléphone",
@@ -13,6 +13,12 @@
   "account_exists_different_method": "Il y a un autre compte qui existe avec cette adresse e-mail, mais créé via une méthode différente, soit Apple ou Google",
   "please_validate_your_choice": "Merci de validez votre choix! ci-dessus",
   "please_enter_your_phone_number": "Veuillez saisir votre numéro de téléphone !",
-  "please_enter_a_valid_phone_number": "Veuillez saisir un numéro de téléphone valide !"
-
+  "please_enter_a_valid_phone_number": "Veuillez saisir un numéro de téléphone valide !",
+  "confirm_your": "CONFIRMEZ VOTRE",
+  "identity": "IDENTITÉ.",
+  "please_enter_the_code": "Veuillez entrer le code reçu par SMS au numéro de téléphone",
+  "cant_find_the_message": "vous ne trouvez pas le message, assurez-vous de vérifier votre téléphone .",
+  "having_a_little_trouble": "Un petit soucis ?",
+  "resend_the_code": "Renvoyer le code !"
+  
 }

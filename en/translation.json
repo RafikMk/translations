@@ -13,6 +13,13 @@
   "account_exists_different_method": "There is another account that exists with this email address, but was created via a different method, either Apple or Google",
   "please_validate_your_choice": "Please validate your choice above!",
   "please_enter_your_phone_number": "Please enter your phone number!",
-  "please_enter_a_valid_phone_number": "Please enter a valid phone number!"
+  "please_enter_a_valid_phone_number": "Please enter a valid phone number!",
+  "confirm_your": "CONFIRM YOUR",
+  "identity": "IDENTITY.",
+  "please_enter_the_code": "Please enter the code received by SMS at the phone number",
+  "cant_find_the_message": "If you can't find the message, make sure to check your phone.",
+   "having_a_little_trouble": "Having a little trouble?",
+  "resend_the_code": "Resend the code!"
+
 
 }
