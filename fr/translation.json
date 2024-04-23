@@ -7,5 +7,12 @@
   "i_continue": "Je continue !",
   "log_in_with_apple": "Je me connecte avec Apple",
   "log_in_with_google": "Je me connecte avec Google",
-  "i_am_a_driver": "Je suis un chauffeur"
+  "i_am_a_driver": "Je suis un chauffeur",
+  "or":"Ou",
+  "email_or_phone_not_exist": "Cet email ou ce numéro de téléphone n'existe pas, Si vous n'êtes pas encore inscrit, cliquez sur « Nouveau compte »",
+  "account_exists_different_method": "Il y a un autre compte qui existe avec cette adresse e-mail, mais créé via une méthode différente, soit Apple ou Google",
+  "please_validate_your_choice": "Merci de validez votre choix! ci-dessus",
+  "please_enter_your_phone_number": "Veuillez saisir votre numéro de téléphone !",
+  "please_enter_a_valid_phone_number": "Veuillez saisir un numéro de téléphone valide !"
+
 }
