@@ -134,6 +134,8 @@
   "pending": "Pending",
   "inProgress": "In Progress",
   "completed": "Completed",
-  "cancelled": "Cancelled"
+  "cancelled": "Cancelled",
+  "filterByDate": "Filter by date"
+
 
 }

@@ -135,8 +135,9 @@
    "pending": "En attente",
    "inProgress": "En Cours",
    "completed": "Terminés",
-   "cancelled": "Annulée"
- 
+   "cancelled": "Annulée",
+   "filterByDate": "Filtrer par date"
+
  
 
 
