@@ -127,7 +127,15 @@
    "our": "Notre",
    "faq": "FAQ",
    "generalConditions": "CONDITIONS GENERALES",
-   "rideDetails": "Détails de la course"
+   "rideDetails": "Détails de la course",
+   "search": "Rechercher ...",
+   "filter": "Filtrer",
+   "filterByStatus": "Filtrer par statut",
+   "all": "Tous",
+   "pending": "En attente",
+   "inProgress": "En Cours",
+   "completed": "Terminés",
+   "cancelled": "Annulée"
  
  
 

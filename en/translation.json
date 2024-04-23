@@ -126,6 +126,14 @@
   "our": "Our",
   "faq": "FAQ",
   "generalConditions": "GENERAL CONDITIONS",
-  "rideDetails": "Ride details"
+  "rideDetails": "Ride details",
+  "search": "Search...",
+  "filter": "Filter",
+  "filterByStatus": "Filter by status",
+  "all": "All",
+  "pending": "Pending",
+  "inProgress": "In Progress",
+  "completed": "Completed",
+  "cancelled": "Cancelled"
 
 }
