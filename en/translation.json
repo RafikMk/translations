@@ -270,5 +270,10 @@
   "ordered_wrong_type": "I ordered the wrong type",
   "ordered_by_accident": "I ordered the ride by accident",
   "waiting_time_too_long": "Waiting time too long",
-  "other_reason": "Other"
+  "other_reason": "Other",
+  "quit_app": "Quit the app?",
+  "are_you_sure_quit": "Are you sure you want to quit?",
+  "save_login_info": "Save login information?",
+  "next_time_easy_login": "Next time you log in on this device, you will just need to tap your account"
+
 }

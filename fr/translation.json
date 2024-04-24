@@ -269,6 +269,11 @@
   "ordered_wrong_type": "J'ai commandé le mauvais type",
   "ordered_by_accident": "J'ai commandé la course par accident",
   "waiting_time_too_long": "Temps d'attente trop long",
-  "other_reason": "Autre"
+  "other_reason": "Autre",
+  "quit_app": "Quitter l'application ?",
+  "are_you_sure_quit": "Êtes-vous sûr de vouloir quitter ?",
+  "save_login_info": "Enregistrer les informations de connexion ?",
+  "next_time_easy_login": "La prochaine fois que vous vous connecterez sur cet appareil, il vous suffira de toucher votre compte"
+
 
 }
