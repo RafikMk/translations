@@ -293,6 +293,8 @@
   "status_completed": "terminée",
   "status_cancelled": "annulée",
   "payment_in_cash": "en Espèce",
-  "payment_apple_pay": "Apple Pay"
+  "payment_apple_pay": "Apple Pay",
+  "i_am_going": "J'y vais"
+
 
 }
