@@ -209,6 +209,10 @@
   "how_to_cancel_booking": "How to cancel your booking",
   "cancel_booking_steps": "To cancel, use the cancellation option available in the app. If you encounter any difficulties, contact customer service directly.",
   "contact_support_": "contact our support.",
-  "how_to_schedule_a_reservation": "How to schedule a reservation"
+  "how_to_schedule_a_reservation": "How to schedule a reservation",
+  "go_to_app": "Go to the app,",
+  "choose_pickup_date_time": "Choose the date and time of your pickup.",
+  "choose_booking_option_for_later": "Choose the booking option for a later date."
+
 
 }
