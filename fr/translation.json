@@ -167,7 +167,16 @@
   "ride_did_not_happen": "Le trajet n’a pas eu lieu",
   "other": "Autre",
   "cancelling_mission": "Annulation mission en cours...",
-  "race_from": "Course du"
+  "race_from": "Course du",
+  "net_to_pay": "Net à payer",
+  "distance": "Distance",
+  "resend_ride": "Renvoyer course",
+  "delete_ride": "Supprimer course",
+  "confirmation": "Confirmation",
+  "confirm_delete_ride": "Voulez-vous supprimer cette course?",
+  "delete": "Supprimer",
+  "confirm_cancel_ride": "Voulez-vous annuler cette course?",
+   "resend": "Renvoyer"
 
 
 
