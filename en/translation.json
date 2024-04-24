@@ -137,7 +137,40 @@
   "cancelled": "Cancelled",
   "filterByDate": "Filter by date",
   "tomorrowAt": "Tomorrow at:",
-  "todayAt": "Today at:"
+  "todayAt": "Today at:",
+  "payment_by": "Payment by",
+  "months": {
+    "1": "Jan",
+    "2": "Feb",
+    "3": "Mar",
+    "4": "Apr",
+    "5": "May",
+    "6": "Jun",
+    "7": "Jul",
+    "8": "Aug",
+    "9": "Sep",
+    "10": "Oct",
+    "11": "Nov",
+    "12": "Dec"
+  },
+
+  "cancel_ride": "Cancel ride",
+  "departure": "Departure",
+  "arrival": "Arrival",
+  "rebook": "Rebook",
+  "intermediate_count": "intermediate {{count}}",
+  "i_need": "I need",
+  "charged_twice": "I have been charged twice",
+  "need_help": "need help",
+  "cancellation_fee_issue": "Issue with cancellation fee",
+  "driver_behavior": "Driver behavior",
+  "ride_did_not_happen": "The ride did not occur",
+  "other": "Other",
+  "cancelling_mission": "Cancelling mission in progress...",
+  "race_from": "Race from"
+
+
+
 
 
 }
