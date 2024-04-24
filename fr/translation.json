@@ -284,8 +284,7 @@
   "by_card": "Par Carte",
   "stay_near_departure_address": "restez à proximité de *Adresse de départ* !",
   "courier_arriving": "Votre coursier arrive, ",
-    "loading": "Chargement",
+  "loading": "Chargement",
   "why_cancel_ride": "Pourquoi voulez-vous annuler votre course ?",
   "confirm_cancellation": "Confirmer l'annulation"
-
 }
