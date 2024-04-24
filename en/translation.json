@@ -233,13 +233,11 @@
   "for_free": "for free",
   "taxicoq_credit": "TaxiCoq credit usable for your rides!",
   "watch_ad": "I watch an ad!",
-  "coming_soon": "COMING SOON",
+  "coming": "COMING",
+  "soon": "SOON",
   "loading": "Loading",
   "you_have_earned": "You have earned {reward.amount} TaxiCoq Credit Point.",
   "check_balance": "Check the integrity of your balance in your personal space (payment section).",
   "claim_reward": "I claim my reward",
   "watch_again": "I watch again"
-
-
-
 }
