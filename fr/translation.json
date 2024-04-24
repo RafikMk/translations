@@ -211,6 +211,9 @@
   "how_to_cancel_booking": "Annulation de votre réservation",
   "cancel_booking_steps": "Pour annuler, utilisez l'option d'annulation disponible dans l'application. Si vous rencontrez des difficultés, contactez directement le service clientèle.",
   "contact_support_": "contacter notre support.",
-  "how_to_schedule_a_reservation": "Comment planifier une réservation"
+  "how_to_schedule_a_reservation": "Comment planifier une réservation",
+  "to_cancel_use_app_option": "Pour annuler, utilisez l'option d'annulation disponible dans l'application.",
+  "if_issues_contact_support": "Si vous rencontrez des difficultés, contactez directement le service clientèle."
+
 
  }
