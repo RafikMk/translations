@@ -291,5 +291,8 @@
   "status_accepted": "acceptée",
   "status_pending": "en attente",
   "status_completed": "terminée",
-  "status_cancelled": "annulée"
+  "status_cancelled": "annulée",
+  "payment_in_cash": "en Espèce",
+  "payment_apple_pay": "Apple Pay"
+
 }

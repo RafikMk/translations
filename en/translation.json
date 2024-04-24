@@ -292,5 +292,7 @@
   "status_accepted": "accepted",
   "status_pending": "pending",
   "status_completed": "completed",
-  "status_cancelled": "cancelled"
+  "status_cancelled": "cancelled",
+  "payment_in_cash": "In Cash",
+  "payment_apple_pay": "Apple Pay"
 }
