@@ -235,7 +235,7 @@
   "coming": "ÇA ARRIVE",
   "soon": "BIENTÔT",
   "loading": "Loading",
-  "you_have_earned": "Vous avez obtenu {reward.amount} Point de crédit TaxiCoq.",
+  "you_have_earned": " 🎉 Vous avez obtenu {{amount}} Point de crédit TaxiCoq.",
   "check_balance": "Retrouvez l’intégrité de votre solde dans votre espace perso (partie paiement).",
   "claim_reward": "Je récupère ma récompense",
   "watch_again": "Je regarde à nouveau"
