@@ -176,7 +176,11 @@
   "confirm_delete_ride": "Voulez-vous supprimer cette course?",
   "delete": "Supprimer",
   "confirm_cancel_ride": "Voulez-vous annuler cette course?",
-   "resend": "Renvoyer"
+   "resend": "Renvoyer",
+   "no_current_rides": "Pas de trajets en cours",
+   "back":"retour"
+
+
 
 
 
