@@ -191,5 +191,22 @@
   "i_log_out": "I Log Out",
   "log_out": "Log Out",
   "confirm_logout": "Are you sure you want to log out?",
-  "confirm_deactivate_account": "Do you want to deactivate your account?"
+  "confirm_deactivate_account": "Do you want to deactivate your account?",
+  "cant_find_answers": "Can't find answers to your questions? You can always",
+  "how_to_book_taxi": "How can I book a taxi?",
+  "book_taxi_instructions": "To book a taxi, open the app, enter your current location and destination, then press 'Book'. You can also specify additional details, such as the type of vehicle.",
+  "how_long_taxi_arrives": "How long does it take for a taxi to arrive?",
+  "taxi_arrival_time": "The waiting time depends on the availability of taxis in your area. Generally, we strive to send you a taxi within 10 to 15 minutes of your booking.",
+  "can_i_cancel_booking": "Can I cancel my booking?",
+  "cancel_booking_info": "Yes, you can cancel your booking at any time before the taxi arrives. However, cancellation fees may apply depending on the cancellation timeframe.",
+  "payment_modes": "What payment modes are accepted?",
+  "payment_methods": "We accept payments in cash and by credit card. You can add a card to your account for hassle-free payment.",
+  "book_taxi_for_later": "Can I book a taxi for a later date?",
+  "how_to_schedule_ride": "Yes, you can schedule a booking for a later date and time. Simply specify the desired date and time during the booking.",
+  "schedule_ride_instructions": "Go to the app, choose the option to book for a later date, select the date and time of your pickup.",
+  "tips_for_successful_booking": "Tips for a successful booking",
+  "confirm_your_booking": "Make sure to confirm the booking once all information is entered.",
+  "how_to_cancel_booking": "How to cancel your booking",
+  "cancel_booking_steps": "To cancel, use the cancellation option available in the app. If you encounter any difficulties, contact customer service directly.",
+  "contact_support_": "contact our support."
 }

@@ -191,5 +191,22 @@
   "i_log_out": "Je me déconnecte",
   "log_out": "Déconnexion",
   "confirm_logout": "Êtes-vous sûr de vouloir vous déconnecter?",
-  "confirm_deactivate_account": "Voulez-vous désactiver votre compte?"
-}
+  "confirm_deactivate_account": "Voulez-vous désactiver votre compte?",
+   "cant_find_answers": "Vous ne trouvez pas de réponses à vos questions ? Vous pouvez toujours",
+  "how_to_book_taxi": "Comment puis-je réserver un taxi ?",
+  "book_taxi_instructions": "Pour réserver un taxi, ouvrez l'application, saisissez votre emplacement actuel et votre destination, puis appuyez sur 'Réserver'. Vous pouvez également spécifier des détails supplémentaires, tels que le type de véhicule.",
+  "how_long_taxi_arrives": "Combien de temps faut-il pour qu'un taxi arrive ?",
+  "taxi_arrival_time": "Le temps d'attente dépend de la disponibilité des taxis dans votre région. En général, nous nous efforçons de vous envoyer un taxi dans les 10 à 15 minutes suivant votre réservation.",
+  "can_i_cancel_booking": "Puis-je annuler ma réservation ?",
+  "cancel_booking_info": "Oui, vous pouvez annuler votre réservation à tout moment avant que le taxi n'arrive. Cependant, des frais d'annulation peuvent s'appliquer en fonction du délai d'annulation.",
+  "payment_modes": "Quels modes de paiement sont acceptés ?",
+  "payment_methods": "Nous acceptons les paiements en espèces et par carte de crédit. Vous pouvez ajouter une carte à votre compte pour un paiement sans tracas.",
+  "book_taxi_for_later": "Puis-je réserver un taxi pour une date ultérieure ?",
+  "how_to_schedule_ride": "Oui, vous pouvez planifier une réservation pour une date et une heure ultérieures. Il vous suffit de spécifier la date et l'heure souhaitées lors de la réservation.",
+  "schedule_ride_instructions": "Rendez-vous sur l'application, choisissez l'option de réservation pour une date ultérieure, choisissez la date et l'heure de votre prise en charge.",
+  "tips_for_successful_booking": "Conseils pour une réservation réussie",
+  "confirm_your_booking": "Assurez-vous de confirmer la réservation une fois toutes les informations saisies.",
+  "how_to_cancel_booking": "Annulation de votre réservation",
+  "cancel_booking_steps": "Pour annuler, utilisez l'option d'annulation disponible dans l'application. Si vous rencontrez des difficultés, contactez directement le service clientèle.",
+  "contact_support_": "contacter notre support."
+ }
