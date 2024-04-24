@@ -264,6 +264,11 @@
   "confirm_cancellation": "Confirm Cancellation",
   "missing_credit_card_number": "Missing Credit Card Number",
   "payment_space": "Payment Space",
-  "finalize_booking_payment_instruction": "To finalize your booking and proceed with payment, please click on the 'Payment Space' button to add your credit card. Your ride will only be confirmed after the payment information is added.\n Thank you for your understanding and cooperation."
-
+  "finalize_booking_payment_instruction": "To finalize your booking and proceed with payment, please click on the 'Payment Space' button to add your credit card. Your ride will only be confirmed after the payment information is added.\n Thank you for your understanding and cooperation.",
+  "wrong_destination_entered": "I entered a wrong destination",
+  "wrong_pickup_location_entered": "I entered a wrong pickup location",
+  "ordered_wrong_type": "I ordered the wrong type",
+  "ordered_by_accident": "I ordered the ride by accident",
+  "waiting_time_too_long": "Waiting time too long",
+  "other_reason": "Other"
 }
