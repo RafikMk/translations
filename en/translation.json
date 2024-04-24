@@ -216,6 +216,7 @@
   "to_cancel_use_app_option": "To cancel, use the cancellation option available in the app.",
   "if_issues_contact_support": "If you encounter any issues, contact customer service directly.",
   "add_address": "Add Address",
+  "edit_address": "Edit Address",
   "address_name": "Address Name",
   "address": "Address",
   "add": "Add",
@@ -223,7 +224,21 @@
   "places": "Places",
   "no_address_added": "No address has been added.",
   "add_new_place": "Add New Place",
-  "saved": "saved"
+  "saved": "saved",
+  "authorization_required": "Authorization Required",
+  "tracking_permission_required": "You need to enable tracking in the app settings to watch ads.",
+  "close": "Close",
+  "settings": "Settings",
+  "you_can_get": "You can get",
+  "for_free": "for free",
+  "taxicoq_credit": "TaxiCoq credit usable for your rides!",
+  "watch_ad": "I watch an ad!",
+  "coming_soon": "COMING SOON",
+  "loading": "Loading",
+  "you_have_earned": "You have earned {reward.amount} TaxiCoq Credit Point.",
+  "check_balance": "Check the integrity of your balance in your personal space (payment section).",
+  "claim_reward": "I claim my reward",
+  "watch_again": "I watch again"
 
 
 

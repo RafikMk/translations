@@ -192,7 +192,7 @@
   "log_out": "Déconnexion",
   "confirm_logout": "Êtes-vous sûr de vouloir vous déconnecter?",
   "confirm_deactivate_account": "Voulez-vous désactiver votre compte?",
-   "cant_find_answers": "Vous ne trouvez pas de réponses à vos questions ? Vous pouvez toujours",
+  "cant_find_answers": "Vous ne trouvez pas de réponses à vos questions ? Vous pouvez toujours",
   "how_to_book_taxi": "Comment puis-je réserver un taxi ?",
   "book_taxi_instructions": "Pour réserver un taxi, ouvrez l'application, saisissez votre emplacement actuel et votre destination, puis appuyez sur 'Réserver'. Vous pouvez également spécifier des détails supplémentaires, tels que le type de véhicule.",
   "how_long_taxi_arrives": "Combien de temps faut-il pour qu'un taxi arrive ?",
@@ -215,6 +215,7 @@
   "to_cancel_use_app_option": "Pour annuler, utilisez l'option d'annulation disponible dans l'application.",
   "if_issues_contact_support": "Si vous rencontrez des difficultés, contactez directement le service clientèle.",
   "add_address": "Ajout d'adresse",
+  "edit_address": "Modifier adresse",
   "address_name": "Nom d'adresse",
   "address": "Adresse",
   "add": "Ajouter",
@@ -222,7 +223,19 @@
   "places": "Lieux",
   "no_address_added": "Aucune adresse n'a été ajoutée.",
   "add_new_place": "Ajouter un nouveau lieu",
-  "saved": "enregistrés"
-
-
- }
+  "saved": "enregistrés",
+  "authorization_required": "Autorisation Requise",
+  "tracking_permission_required": "Vous devez autoriser le suivi dans les paramètres de l'app pour regarder des publicités.",
+  "close": "Fermer",
+  "settings": "Paramètres",
+  "you_can_get": "Vous pouvez obtenir",
+  "for_free": "gratuitement",
+  "taxicoq_credit": "du crédit TaxiCoq utilisable pour vos courses !",
+  "watch_ad": "Je visionne une publicité !",
+  "coming_soon": "ÇA ARRIVE BIENTÔT",
+  "loading": "Loading",
+  "you_have_earned": "Vous avez obtenu {reward.amount} Point de crédit TaxiCoq.",
+  "check_balance": "Retrouvez l’intégrité de votre solde dans votre espace perso (partie paiement).",
+  "claim_reward": "Je récupère ma récompense",
+  "watch_again": "Je regarde à nouveau"
+}
