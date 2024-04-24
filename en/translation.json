@@ -181,5 +181,7 @@
   "deleting_mission": "Deleting mission in progress...",
   "mission_details": "Mission details in progress...",
   "credit_cards": "CREDIT CARDS",
-  "privacy_policy": "We ensure the security and confidentiality of the information we hold. Only authorized persons have access to this information."
+  "privacy_policy": "We ensure the security and confidentiality of the information we hold. Only authorized persons have access to this information.",
+  "profile": "Profile"
+
 }
