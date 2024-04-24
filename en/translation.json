@@ -274,6 +274,18 @@
   "quit_app": "Quit the app?",
   "are_you_sure_quit": "Are you sure you want to quit?",
   "save_login_info": "Save login information?",
-  "next_time_easy_login": "Next time you log in on this device, you will just need to tap your account"
-
+  "next_time_easy_login": "Next time you log in on this device, you will just need to tap your account",
+  "on_the_way": "On the way",
+  "in": "in",
+  "driver_en_route": "Driver en route",
+  "booking_confirmation": "Booking Confirmation",
+  "processing_your_ride": "We are processing your ride.",
+  "booking_success": "We are pleased to confirm that your taxi booking has been successfully accepted. Your ride is scheduled for",
+  "stay_tuned": "Stay tuned!",
+  "rate_your_ride": "Rate your ride experience",
+  "tell_us_about_your_ride": "Tell us how your ride went by rating your driver. Your feedback is crucial for continuously improving our service.",
+  "send": "Send",
+  "by_card": "By Card",
+  "stay_near_departure_address": "stay near *Departure Address*!",
+  "courier_arriving": "Your courier is arriving, "
 }

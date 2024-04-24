@@ -234,7 +234,6 @@
   "watch_ad": "Je visionne une publicité !",
   "coming": "ÇA ARRIVE",
   "soon": "BIENTÔT",
-  "loading": "Loading",
   "you_have_earned": " 🎉 Vous avez obtenu {{amount}} Point de crédit TaxiCoq.",
   "check_balance": "Retrouvez l’intégrité de votre solde dans votre espace perso (partie paiement).",
   "claim_reward": "Je récupère ma récompense",
@@ -258,9 +257,7 @@
   "open_settings": "Ouvrir les paramètres",
   "save": "Enregistrer",
   "cancel_ride_question": "Annuler la course ?",
-  "why_cancel_ride": "Pourquoi voulez-vous annuler votre course ?",
   "error_during_cancellation": "Erreur lors de l'annulation de la mission",
-  "confirm_cancellation": "Confirmer l'annulation",
   "missing_credit_card_number": "Numéro de Carte Bancaire Manquant",
   "payment_space": "Espace de Paiement",
   "finalize_booking_payment_instruction": "Pour finaliser votre réservation et procéder au paiement, veuillez cliquer sur le bouton 'Espace de Paiement' pour ajouter votre carte bancaire. Votre course ne sera confirmée qu'après l'ajout des informations de paiement.\n Merci de votre compréhension et de votre coopération.",
@@ -273,7 +270,22 @@
   "quit_app": "Quitter l'application ?",
   "are_you_sure_quit": "Êtes-vous sûr de vouloir quitter ?",
   "save_login_info": "Enregistrer les informations de connexion ?",
-  "next_time_easy_login": "La prochaine fois que vous vous connecterez sur cet appareil, il vous suffira de toucher votre compte"
-
+  "next_time_easy_login": "La prochaine fois que vous vous connecterez sur cet appareil, il vous suffira de toucher votre compte",
+  "on_the_way": "On arrive",
+  "in": "dans",
+  "driver_en_route": "Chauffeur en route",
+  "booking_confirmation": "Confirmation de réservation",
+  "processing_your_ride": "Nous traitons votre course.",
+  "booking_success": "Nous avons le plaisir de vous confirmer que votre réservation de taxi a été acceptée avec succès. Votre trajet est prévu pour le",
+  "stay_tuned": "Restez à l'affût !",
+  "rate_your_ride": "Évaluez votre expérience de trajet",
+  "tell_us_about_your_ride": "Dites-nous comment s'est déroulée votre course en notant votre chauffeur. Votre avis est essentiel pour améliorer constamment notre service.",
+  "send": "Envoyer",
+  "by_card": "Par Carte",
+  "stay_near_departure_address": "restez à proximité de *Adresse de départ* !",
+  "courier_arriving": "Votre coursier arrive, ",
+    "loading": "Chargement",
+  "why_cancel_ride": "Pourquoi voulez-vous annuler votre course ?",
+  "confirm_cancellation": "Confirmer l'annulation"
 
 }
