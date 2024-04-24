@@ -287,5 +287,10 @@
   "send": "Send",
   "by_card": "By Card",
   "stay_near_departure_address": "stay near *Departure Address*!",
-  "courier_arriving": "Your courier is arriving, "
+  "courier_arriving": "Your courier is arriving, ",
+  "status_in_progress": "in progress",
+  "status_accepted": "accepted",
+  "status_pending": "pending",
+  "status_completed": "completed",
+  "status_cancelled": "cancelled"
 }

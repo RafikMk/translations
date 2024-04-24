@@ -286,5 +286,10 @@
   "courier_arriving": "Votre coursier arrive, ",
   "loading": "Chargement",
   "why_cancel_ride": "Pourquoi voulez-vous annuler votre course ?",
-  "confirm_cancellation": "Confirmer l'annulation"
+  "confirm_cancellation": "Confirmer l'annulation",
+  "status_in_progress": "en cours",
+  "status_accepted": "acceptée",
+  "status_pending": "en attente",
+  "status_completed": "terminée",
+  "status_cancelled": "annulée"
 }
