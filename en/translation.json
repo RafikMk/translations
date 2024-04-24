@@ -182,6 +182,14 @@
   "mission_details": "Mission details in progress...",
   "credit_cards": "CREDIT CARDS",
   "privacy_policy": "We ensure the security and confidentiality of the information we hold. Only authorized persons have access to this information.",
-  "profile": "Profile"
-
+  "profile": "Profile",
+  "edit": "Edit",
+  "email": "E-mail",
+  "my_profile": "My Profile",
+  "deactivate_account": "Deactivate Account",
+  "i_save": "I Save",
+  "i_log_out": "I Log Out",
+  "log_out": "Log Out",
+  "confirm_logout": "Are you sure you want to log out?",
+  "confirm_deactivate_account": "Do you want to deactivate your account?"
 }
