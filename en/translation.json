@@ -116,7 +116,7 @@
   "details": "Details",
   "ofPayment": "of payment",
   "myMethodsOf": "My methods of",
-   "my": "My",
+  "my": "My",
   "trips": "Trips",
   "advertisements": "Advertisements",
   "addresses": "Addresses",
@@ -153,7 +153,6 @@
     "11": "Nov",
     "12": "Dec"
   },
-
   "cancel_ride": "Cancel ride",
   "departure": "Departure",
   "arrival": "Arrival",
@@ -178,10 +177,7 @@
   "confirm_cancel_ride": "Do you want to cancel this ride?",
   "resend": "Resend",
   "no_current_rides": "No current rides",
-"back":"back"
-
-
-
-
-
+  "back": "back",
+  "deleting_mission": "Deleting mission in progress...",
+  "mission_details": "Mission details in progress..."
 }
