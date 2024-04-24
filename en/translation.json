@@ -239,5 +239,7 @@
   "you_have_earned": " 🎉 You have earned {{amount}} TaxiCoq Credit Point.",
   "check_balance": "Check the integrity of your balance in your personal space (payment section).",
   "claim_reward": "I claim my reward",
-  "watch_again": "I watch again"
+  "watch_again": "I watch again",
+  "location_permission_denied": "Location permission denied by user.",
+  "location_permission_revoked": "Location permission revoked by user."
 }

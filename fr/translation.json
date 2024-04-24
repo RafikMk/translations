@@ -238,5 +238,7 @@
   "you_have_earned": " 🎉 Vous avez obtenu {{amount}} Point de crédit TaxiCoq.",
   "check_balance": "Retrouvez l’intégrité de votre solde dans votre espace perso (partie paiement).",
   "claim_reward": "Je récupère ma récompense",
-  "watch_again": "Je regarde à nouveau"
+  "watch_again": "Je regarde à nouveau",
+  "location_permission_denied": "Permission de localisation refusée par l'utilisateur.",
+  "location_permission_revoked": "Permission de localisation révoquée par l'utilisateur."
 }
