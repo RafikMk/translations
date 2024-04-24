@@ -214,7 +214,16 @@
   "choose_pickup_date_time": "Choose the date and time of your pickup.",
   "choose_booking_option_for_later": "Choose the booking option for a later date.",
   "to_cancel_use_app_option": "To cancel, use the cancellation option available in the app.",
-  "if_issues_contact_support": "If you encounter any issues, contact customer service directly."
+  "if_issues_contact_support": "If you encounter any issues, contact customer service directly.",
+  "add_address": "Add Address",
+  "address_name": "Address Name",
+  "address": "Address",
+  "add": "Add",
+  "start_adding_saved_places": "Start adding your saved places to access them more quickly.",
+  "places": "Places",
+  "no_address_added": "No address has been added.",
+  "add_new_place": "Add New Place",
+  "saved": "saved"
 
 
 

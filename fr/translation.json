@@ -213,7 +213,16 @@
   "contact_support_": "contacter notre support.",
   "how_to_schedule_a_reservation": "Comment planifier une réservation",
   "to_cancel_use_app_option": "Pour annuler, utilisez l'option d'annulation disponible dans l'application.",
-  "if_issues_contact_support": "Si vous rencontrez des difficultés, contactez directement le service clientèle."
+  "if_issues_contact_support": "Si vous rencontrez des difficultés, contactez directement le service clientèle.",
+  "add_address": "Ajout d'adresse",
+  "address_name": "Nom d'adresse",
+  "address": "Adresse",
+  "add": "Ajouter",
+  "start_adding_saved_places": "Commencez à ajouter vos lieux enregistrés pour y accéder plus rapidement.",
+  "places": "Lieux",
+  "no_address_added": "Aucune adresse n'a été ajoutée.",
+  "add_new_place": "Ajouter un nouveau lieu",
+  "saved": "enregistrés"
 
 
  }
