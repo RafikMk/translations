@@ -10,7 +10,7 @@
   "i_am_a_driver": "I am a driver",
   "or": "Or",
   "email_or_phone_not_exist": "This email or phone number does not exist. If you are not yet registered, click on 'New Account'",
-  "account_exists_different_method": "There is another account that exists with this email address, but was created via a different method, either Apple or Google",
+  "account_exists_different_method": "An account already exists with this email address, but was created using a different method. Please log in using the {Methode} for this email address. If you are having trouble logging in or if you are unsure of the method used, please contact our support for assistance.",
   "please_validate_your_choice": "Please validate your choice above!",
   "please_enter_your_phone_number": "Please enter your phone number!",
   "please_enter_a_valid_phone_number": "Please enter a valid phone number!",
