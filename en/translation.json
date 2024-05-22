@@ -186,6 +186,8 @@
   "edit": "Edit",
   "email": "E-mail",
   "my_profile": "My Profile",
+  "profileIsUpdated": "Profile updated successfully!",
+  "profileIsNotUpdated": "Error updating profile.",
   "deactivate_account": "Deactivate Account",
   "i_save": "I Save",
   "i_log_out": "I Log Out",
