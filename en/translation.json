@@ -82,6 +82,8 @@
   "myPosition": "My Position",
   "intermediate": "Intermediate",
   "addAStop": "Add a Stop",
+  "titleupdateemail": "Add your email",
+  "messageupdateemail": "You have not added your email yet. Please add your email to continue.",
   "roundTripQuestion": "Round Trip?",
   "searchDestination": "Search for a Destination",
   "returnToForm": "Return to Form",
